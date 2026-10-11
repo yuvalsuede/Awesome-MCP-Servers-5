@@ -396,6 +396,7 @@ Shell, OS, and task automation.
 
 Social platforms integration.
 
+- Agent Media — https://github.com/agent-media-ai/agent-media — Hosted MCP server and skills for captioned vertical UGC, narrated b-roll, reusable characters, images and voice.
 - BlueSky — https://github.com/keturiosakys/bluesky-context-server
 - YouTube — https://github.com/anaisbetts/mcp-youtube and https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
 - Spotify — https://github.com/varunneal/spotify-mcp
